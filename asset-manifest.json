@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/credentials-project/static/css/main.073c9b0a.css",
+    "main.js": "/credentials-project/static/js/main.a259dc28.js",
+    "static/js/787.ae0246fb.chunk.js": "/credentials-project/static/js/787.ae0246fb.chunk.js",
+    "index.html": "/credentials-project/index.html",
+    "main.073c9b0a.css.map": "/credentials-project/static/css/main.073c9b0a.css.map",
+    "main.a259dc28.js.map": "/credentials-project/static/js/main.a259dc28.js.map",
+    "787.ae0246fb.chunk.js.map": "/credentials-project/static/js/787.ae0246fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a259dc28.js"
+  ]
+}
